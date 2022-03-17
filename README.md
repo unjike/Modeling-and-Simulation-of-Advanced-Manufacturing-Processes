@@ -11,6 +11,7 @@ heated such that the temperature reaches about 70% - 90% of its melting point. T
 manufacturing has several advantages compared to conventional approaches. The advantages includes
 the ability to process materials that cannot be melted and the resulting processed material is highly
 pure.
+
 In general, sintering processes cost more than conventional processes like casting and machining.
 However, continuous research is looking for ways to make the process cheaper and expand its application
 beyond niche markets. Electrically aided sintering is a promissing variation of the sintering process. In
