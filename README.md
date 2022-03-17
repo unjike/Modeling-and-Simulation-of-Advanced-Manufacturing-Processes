@@ -1,5 +1,7 @@
 # Modeling-and-Simulation-of-Advanced-Manufacturing-Processing
 
+
+## Simulation and Optimization of a Spark-Sintering Material Manufacturing Process
 Sintering is a process by which a material of a specific characteristic is produced by compressing a
 relevant powdered stock of material. The raw material in this process is usually a powdered metal,
 which can be iron, copper, or an alloy of metals. Depending on the composition of the final material, the
