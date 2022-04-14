@@ -1,4 +1,4 @@
-# Modeling-and-Simulation-of-Advanced-Manufacturing-Processing
+# Modeling-and-Simulation-of-Advanced-Manufacturing-Processes
 
 
 ## Simulation and Optimization of a Spark-Sintering Material Manufacturing Process
